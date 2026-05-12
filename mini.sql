@@ -198,7 +198,7 @@ begin
 end // 
 delimiter ;
 
--- Trừ comment
+-- tăng comment
 delimiter // 
 create trigger tg_after_comment_insert 
 
